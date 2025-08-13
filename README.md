@@ -1,9 +1,9 @@
 # cuddly-octo-invention
 
-Fake api keys: 
-FAKE_API_KEY = sk-test-1234abcd5678efgh9012ijkl
+sk-4fS1aX8gT3lBv9QjM6rDd1ZKq72uYpEHTzWxLNc7EqpKDvYk
 
-AIzaSyD-FakeKey1234example5678forDocs
+AIzaSyB-7Xf8kC9KjQmVwTzR7nYeD4GpX2c3aN0
 
 
-pk_test_51H1234567890abcdefFakeKey
+
+ghp_Me9Rv3YFq7XZsL1TQ4cPDaEKfJ8mNUo0GtXz
