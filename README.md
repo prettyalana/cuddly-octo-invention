@@ -1,9 +1,2 @@
 # cuddly-octo-invention
 
-sk-4fS1aX8gT3lBv9QjM6rDd1ZKq72uYpEHTzWxLNc7EqpKDvYk
-
-AIzaSyB-7Xf8kC9KjQmVwTzR7nYeD4GpX2c3aN0
-
-
-
-ghp_Me9Rv3YFq7XZsL1TQ4cPDaEKfJ8mNUo0GtXz
